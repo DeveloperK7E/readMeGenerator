@@ -1,7 +1,7 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "professional way to get a readme file     #Table of contents     * [Installation](#installation)     * [Usage](#usage)     * [License](#license)     * [Contribution](#contribution)     * [Tests](#tests)     * [Questions](#questions)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperK7E/readMeGenerator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/DeveloperK7E/readMeGenerator/issues"
+  },
+  "homepage": "https://github.com/DeveloperK7E/readMeGenerator#readme"
 }
