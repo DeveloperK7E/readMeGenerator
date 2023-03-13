@@ -35,8 +35,13 @@ const questions = [{
 },
 {
     type: 'input',
-    name: 'contribution',
-    message: 'Contribution info?',
+    name: 'creator',
+    message: 'Who made this project?',
+},
+{
+    type: 'input',
+    name: 'contributing',
+    message: 'Any contributors?',
 },
 {
     type: 'input',
